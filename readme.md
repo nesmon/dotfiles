@@ -57,6 +57,8 @@ smart_gaps on
 
 ## Mais logiciel :
 
+- Gestionnaire de fichiers : Thunar
+- Gestionnaire de thèmes : lxappearance
 - Pour dev : VSCode / Atom / Intelij
 - Navigateur : Vivaldi
 - Discord 
@@ -66,7 +68,31 @@ smart_gaps on
 - Lanceur d'app : rofi
 
 ## Config compléte :
-
+### Prérequis
 Pour avoir aucun problème avec la config suivante installer les packages suivant :
+
+Polybar : 
+```
+sudo apt-get install cairo libxcb python2 xcb-proto xcb-util-image xcb-util-wm xcb-util-xrm xcb-util-cursor alsa-lib jsoncpp libmpdclient libcurl wireless_tools 
+git clone --branch 3.1.0 --recursive https://github.com/jaagr/polybar
+mkdir polybar/build
+cd polybar/build
+cmake ..
+sudo make install
+```
+
+urxvt-unicode :
+``` 
+sudo apt-get install rxvt-unicode
+```
+
+Rofi : 
+[Regarder via se lien.](https://github.com/DaveDavenport/rofi/blob/next/INSTALL.md)
+
+### Fichiers de configuration :
+
+Copier le fichier `.config` dans celui qui se trouve a la racine de votre dossier utilisateur.
+
+
 
 
