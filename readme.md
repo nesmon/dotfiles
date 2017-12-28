@@ -65,7 +65,8 @@ smart_gaps on
 - Video : VLC ou leteur de base
 - Lanceur d'app : rofi
 
+## Config compléte :
 
-
+Pour avoir aucun problème avec la config suivante installer les packages suivant :
 
 
