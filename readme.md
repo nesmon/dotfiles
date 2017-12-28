@@ -11,4 +11,4 @@ Vous pouvez comme même l'utiliser si besoin.
 ## Interface graphique :
 
 Mon interface graphique est i3wm coupler a i3-gaps pour avoir un espacement entre mais fenêtre quand il y en a plusieur.
-Pour l'installer render-vous sur leur [i3gaps] (http://www.google.com).
+Pour l'installer render-vous sur leur [i3gaps](https://github.com/Airblader/i3).
