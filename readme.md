@@ -55,6 +55,16 @@ smart_border on
 smart_gaps on
 ```
 
+## Mais logiciel :
+
+- Pour dev : VSCode / Atom / Intelij
+- Navigateur : Vivaldi
+- Discord 
+- Terminal : urxvt-unicode
+- Musique : Spotify
+- Video : VLC ou leteur de base
+- Lanceur d'app : rofi
+
 
 
 
