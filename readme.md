@@ -55,7 +55,7 @@ smart_border on
 smart_gaps on
 ```
 
-## Mais logiciel :
+## Mes logiciel :
 
 - Gestionnaire de fichiers : Thunar
 - Gestionnaire de thèmes : lxappearance
@@ -92,6 +92,8 @@ Rofi :
 ### Fichiers de configuration :
 
 Copier le fichier `.config` dans celui qui se trouve a la racine de votre dossier utilisateur.
+
+Installer le thème obsidian-2-green : 
 
 
 

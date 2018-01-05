@@ -1,0 +1,102 @@
+! ===================
+!       urxvt
+! ===================
+URxvt.termName: rxvt-unicode
+URxvt*scrollBar:	    false
+URxvt*letterSpace:  	-1
+URxvt.internalBorder: 10
+URxvt.iso14755:		    false
+URxvt*utf8:			      true
+URxvt.keysym.C-equal:      resize-font:bigger
+URxvt.keysym.C-parenright: resize-font:smaller
+
+URxvt.imLocale: fr_FR.UTF-8
+URxvt.saveLines: 2048
+URxvt.highlightColor: #333333
+URxvt.fadecolor: #222222
+URxvt.fading: 25
+URxvt.shading: 25
+URxvt.transparent: true
+URxvt.urgentOnBell: true
+URxvt.font:xft:Inconsolata for Powerline:size=11
+URxvt.scrollBar: false
+URxvt.matcher.button: 1
+URxvt.cursorBlink: true
+
+! =================
+!       Xft
+! =================
+Xft.dpi:          	96
+Xft.antialias:     	true
+Xft.rgba:			      subpixel
+Xft.hinting:       	true
+Xft.hintstyle:		  hintslight
+! Xft.lcdfilter:	  lcddefault
+
+! ============
+!   Couleurs
+! ============
+*secondary:  #4C566A
+*active:     #D8DEE9
+
+#define nord0 #222D32
+#define nord1 #3B4252
+#define nord2 #434C5E
+#define nord3 #4C566A
+#define nord4 #D8DEE9
+#define nord5 #E5E9F0
+#define nord6 #ECEFF4
+#define nord7 #8FBCBB
+#define nord8 #88C0D0
+#define nord9 #81A1C1
+#define nord10 #5E81AC
+#define nord11 #BF616A
+#define nord12 #D08770
+#define nord13 #EBCB8B
+#define nord14 #A3BE8C
+#define nord15 #B48EAD
+
+*.foreground:   nord4
+*.background:   nord0
+*.cursorColor:  nord4
+*fading: 20
+*fadeColor: nord3
+
+*.color0: nord1
+*.color1: nord11
+*.color2: nord14
+*.color3: nord13
+*.color4: nord9
+*.color5: nord15
+*.color6: nord8
+*.color7: nord5
+*.color8: nord3
+*.color9: nord11
+*.color10: nord14
+*.color11: nord13
+*.color12: nord9
+*.color13: nord15
+*.color14: nord7
+*.color15: nord6
+
+! ============
+!   Rofi
+! ============
+
+rofi.fullscreen: true
+rofi.color-enabled: true
+rofi.color-window: argb:e8222D32,argb:00292f37,#EBCB8B
+rofi.color-normal: argb:02000000,#D8DEE9,argb:02000000,argb:02000000,#EBCB8B
+rofi.color-active: argb:02000000,#D8DEE9,argb:02000000,argb:02000000,#D8DEE9
+rofi.color-urgent: argb:02000000,#D8DEE9,argb:02000000,argb:02000000,#D8DEE9
+
+rofi.font: System San Francisco Display 14
+rofi.eh: 1
+rofi.line-margin: 20
+rofi.separator-style: solid
+rofi.hide-scrollbar: true
+rofi.lines: 3
+rofi.width: 100
+rofi.padding: 200
+rofi.bw: 0
+rofi.show-icons: true
