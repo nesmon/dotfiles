@@ -66,6 +66,8 @@ smart_gaps on
 - Musique : Spotify
 - Video : VLC ou leteur de base
 - Lanceur d'app : rofi
+- Theme : Obsidian-2-green
+- Icon : masalla
 
 ## Config compléte :
 ### Prérequis
@@ -91,10 +93,18 @@ Rofi :
 
 ### Fichiers de configuration :
 
-Copier le fichier `.config` dans celui qui se trouve a la racine de votre dossier utilisateur.
+Copier le fichier `config` dans le fichier `.config` qui se trouve a la racine de votre dossier utilisateur.
 
-Installer le thème obsidian-2-green : 
+Installer le thème obsidian-2-green et le pack d'icon masalla : 
 
+```bash
+# Obsidian theme
+sudo add-apt-repository ppa:noobslab/themes
+sudo apt-get update
+sudo apt-get install obsidian-gtk-theme
 
-
-
+# Masalla icon
+sudo add-apt-repository ppa:noobslab/icons
+sudo apt-get update
+sudo apt-get install masalla-icon-theme
+```
