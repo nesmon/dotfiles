@@ -63,6 +63,8 @@ smart_gaps on
 - Navigateur : Vivaldi
 - Discord 
 - Terminal : urxvt-unicode
+- Diviseur de terminal : Tmux
+- Thème de terminal : zsh + oh-my-zsh
 - Musique : Spotify
 - Video : VLC ou leteur de base
 - Lanceur d'app : rofi
@@ -93,7 +95,7 @@ Rofi :
 
 ### Fichiers de configuration :
 
-Copier le fichier `config` dans le fichier `.config` qui se trouve a la racine de votre dossier utilisateur.
+Copier le contenu du  fichier `config` dans le fichier `.config` qui se trouve a la racine de votre dossier utilisateur.
 
 Installer le thème obsidian-2-green et le pack d'icon masalla : 
 
