@@ -1,0 +1,8 @@
+[Libinput][1118][2012][Microsoft Surface Type Cover Touchpad]
+Enabled=true
+
+[Libinput][7062][6917][NTRG0001:01 1B96:1B05]
+Enabled=false
+
+[Touchscreen]
+Enabled=true

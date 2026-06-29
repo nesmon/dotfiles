@@ -1,0 +1,18 @@
+[ExtractDialog]
+1440x960 screen: Height=540
+1440x960 screen: Width=960
+DirHistory[$e]=$HOME/Documents/Game/
+
+[General]
+Version=202
+ViewPropsTimestamp=2026,6,6,23,18,39.21
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,directorythumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,opendocumentthumbnail,svgthumbnail,windowsexethumbnail,windowsimagethumbnail,ffmpegthumbs,blenderthumbnail,gsthumbnail,mobithumbnail,rawthumbnail,fontthumbnail,glycin-heif,glycin-image-rs,glycin-jxl,glycin-svg,ffmpegthumbnailer,gsf-office

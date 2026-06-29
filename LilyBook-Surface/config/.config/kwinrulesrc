@@ -1,0 +1,10 @@
+[General]
+rules=
+
+[ce4fc0b6-c589-4d96-81ba-9551d721ba65]
+maximizehorizrule=2
+maximizevertrule=2
+maxsize=1440,800
+maxsizerule=2
+size=1440,800
+sizerule=3
